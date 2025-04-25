@@ -1,0 +1,47 @@
+Per-subject results:
+Subject 1: F1-score=0.5059, Accuracy=0.5167
+Subject 2: F1-score=0.7137, Accuracy=0.7167
+Subject 3: F1-score=0.5605, Accuracy=0.5583
+Subject 4: F1-score=0.5877, Accuracy=0.5917
+Subject 5: F1-score=0.5232, Accuracy=0.5167
+Subject 6: F1-score=0.7993, Accuracy=0.8000
+Subject 7: F1-score=0.6112, Accuracy=0.6167
+Subject 8: F1-score=0.4610, Accuracy=0.4750
+Subject 9: F1-score=0.6637, Accuracy=0.6750
+Subject 10: F1-score=0.5439, Accuracy=0.5417
+Subject 11: F1-score=0.4562, Accuracy=0.4667
+Subject 12: F1-score=0.4651, Accuracy=0.4750
+Subject 13: F1-score=0.6625, Accuracy=0.6583
+Subject 14: F1-score=0.5206, Accuracy=0.5333
+Subject 15: F1-score=0.6137, Accuracy=0.6333
+Subject 16: F1-score=0.5057, Accuracy=0.5167
+Subject 17: F1-score=0.7623, Accuracy=0.7667
+Subject 18: F1-score=0.5303, Accuracy=0.5500
+Subject 19: F1-score=0.6577, Accuracy=0.6583
+Subject 20: F1-score=0.6759, Accuracy=0.6750
+Subject 21: F1-score=0.5110, Accuracy=0.5333
+Subject 22: F1-score=0.6622, Accuracy=0.6667
+Subject 23: F1-score=0.4941, Accuracy=0.4833
+Subject 24: F1-score=0.7153, Accuracy=0.7167
+Subject 25: F1-score=0.3948, Accuracy=0.3917
+Subject 26: F1-score=0.5883, Accuracy=0.5917
+Subject 27: F1-score=0.5315, Accuracy=0.5417
+Subject 28: F1-score=0.5823, Accuracy=0.5833
+Subject 29: F1-score=0.4216, Accuracy=0.4333
+Subject 30: F1-score=0.5664, Accuracy=0.5667
+Subject 31: F1-score=0.5687, Accuracy=0.6083
+Subject 32: F1-score=0.4984, Accuracy=0.5000
+Subject 33: F1-score=0.7781, Accuracy=0.7833
+Subject 34: F1-score=0.3644, Accuracy=0.3833
+Subject 35: F1-score=0.4428, Accuracy=0.4500
+Subject 36: F1-score=0.5776, Accuracy=0.5917
+Subject 37: F1-score=0.4130, Accuracy=0.4000
+Subject 38: F1-score=0.3688, Accuracy=0.3917
+Subject 39: F1-score=0.6248, Accuracy=0.6167
+Subject 40: F1-score=0.5443, Accuracy=0.5500
+Subject 41: F1-score=0.5184, Accuracy=0.5167
+Subject 42: F1-score=0.5234, Accuracy=0.5250
+
+Final Results:
+Average F1-score across subjects: 0.5598
+Average Accuracy across subjects: 0.5659

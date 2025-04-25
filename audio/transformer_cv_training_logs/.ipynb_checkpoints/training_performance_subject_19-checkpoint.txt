@@ -1,0 +1,249 @@
+subject_19, Fold 0, Epoch 1, Train ACC: 0.2812, Val ACC: 0.3036
+subject_19, Fold 0, Epoch 2, Train ACC: 0.4241, Val ACC: 0.4464
+subject_19, Fold 0, Epoch 3, Train ACC: 0.4286, Val ACC: 0.5000
+subject_19, Fold 0, Epoch 4, Train ACC: 0.5759, Val ACC: 0.5536
+subject_19, Fold 0, Epoch 5, Train ACC: 0.6161, Val ACC: 0.3929
+subject_19, Fold 0, Epoch 6, Train ACC: 0.5893, Val ACC: 0.5714
+subject_19, Fold 0, Epoch 7, Train ACC: 0.6518, Val ACC: 0.6071
+subject_19, Fold 0, Epoch 8, Train ACC: 0.6562, Val ACC: 0.6250
+subject_19, Fold 0, Epoch 9, Train ACC: 0.7500, Val ACC: 0.5893
+subject_19, Fold 0, Epoch 10, Train ACC: 0.7143, Val ACC: 0.6071
+subject_19, Fold 0, Epoch 11, Train ACC: 0.7589, Val ACC: 0.6071
+subject_19, Fold 0, Epoch 12, Train ACC: 0.7634, Val ACC: 0.5893
+subject_19, Fold 0, Epoch 13, Train ACC: 0.7455, Val ACC: 0.6607
+subject_19, Fold 0, Epoch 14, Train ACC: 0.8036, Val ACC: 0.6071
+subject_19, Fold 0, Epoch 15, Train ACC: 0.7902, Val ACC: 0.5714
+subject_19, Fold 0, Epoch 16, Train ACC: 0.7902, Val ACC: 0.5714
+subject_19, Fold 0, Epoch 17, Train ACC: 0.8214, Val ACC: 0.6250
+subject_19, Fold 0, Epoch 18, Train ACC: 0.8348, Val ACC: 0.5893
+subject_19, Fold 0, Epoch 19, Train ACC: 0.8259, Val ACC: 0.6250
+subject_19, Fold 0, Epoch 20, Train ACC: 0.8170, Val ACC: 0.5536
+subject_19, Fold 0, Epoch 21, Train ACC: 0.8527, Val ACC: 0.6250
+subject_19, Fold 0, Epoch 22, Train ACC: 0.8482, Val ACC: 0.6250
+subject_19, Fold 0, Epoch 23, Train ACC: 0.8482, Val ACC: 0.6429
+subject_19, Fold 0, Best Epoch: 13, Final Val ACC: 0.6607, Final Val F1: 0.6462
+
+subject_19, Fold 0, Epoch 1, Train ACC: 0.7321, Val ACC: 0.5714
+subject_19, Fold 0, Epoch 2, Train ACC: 0.8571, Val ACC: 0.6429
+subject_19, Fold 0, Epoch 3, Train ACC: 0.9643, Val ACC: 0.6250
+subject_19, Fold 0, Epoch 4, Train ACC: 0.9866, Val ACC: 0.6607
+subject_19, Fold 0, Epoch 5, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Epoch 6, Train ACC: 1.0000, Val ACC: 0.6607
+subject_19, Fold 0, Epoch 7, Train ACC: 1.0000, Val ACC: 0.7500
+subject_19, Fold 0, Epoch 8, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Epoch 9, Train ACC: 1.0000, Val ACC: 0.7500
+subject_19, Fold 0, Epoch 10, Train ACC: 1.0000, Val ACC: 0.7500
+subject_19, Fold 0, Epoch 11, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Epoch 12, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Epoch 13, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Epoch 14, Train ACC: 1.0000, Val ACC: 0.7500
+subject_19, Fold 0, Epoch 15, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Epoch 16, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Epoch 17, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 0, Best Epoch: 7, Final Val ACC: 0.7500, Final Val F1: 0.7499
+
+subject_19, Fold 1, Epoch 1, Train ACC: 0.2009, Val ACC: 0.3929
+subject_19, Fold 1, Epoch 2, Train ACC: 0.3527, Val ACC: 0.4286
+subject_19, Fold 1, Epoch 3, Train ACC: 0.5089, Val ACC: 0.4464
+subject_19, Fold 1, Epoch 4, Train ACC: 0.5625, Val ACC: 0.4821
+subject_19, Fold 1, Epoch 5, Train ACC: 0.5625, Val ACC: 0.5000
+subject_19, Fold 1, Epoch 6, Train ACC: 0.5759, Val ACC: 0.5714
+subject_19, Fold 1, Epoch 7, Train ACC: 0.6339, Val ACC: 0.6250
+subject_19, Fold 1, Epoch 8, Train ACC: 0.7009, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 9, Train ACC: 0.6652, Val ACC: 0.5893
+subject_19, Fold 1, Epoch 10, Train ACC: 0.7589, Val ACC: 0.6250
+subject_19, Fold 1, Epoch 11, Train ACC: 0.7589, Val ACC: 0.6071
+subject_19, Fold 1, Epoch 12, Train ACC: 0.7277, Val ACC: 0.5536
+subject_19, Fold 1, Epoch 13, Train ACC: 0.7232, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 14, Train ACC: 0.7812, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 15, Train ACC: 0.7723, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 16, Train ACC: 0.7589, Val ACC: 0.6250
+subject_19, Fold 1, Epoch 17, Train ACC: 0.8080, Val ACC: 0.6786
+subject_19, Fold 1, Epoch 18, Train ACC: 0.8259, Val ACC: 0.6071
+subject_19, Fold 1, Epoch 19, Train ACC: 0.8036, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 20, Train ACC: 0.7991, Val ACC: 0.6250
+subject_19, Fold 1, Epoch 21, Train ACC: 0.8125, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 22, Train ACC: 0.8304, Val ACC: 0.6607
+subject_19, Fold 1, Epoch 23, Train ACC: 0.8080, Val ACC: 0.6607
+subject_19, Fold 1, Epoch 24, Train ACC: 0.8438, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 25, Train ACC: 0.8259, Val ACC: 0.6071
+subject_19, Fold 1, Epoch 26, Train ACC: 0.8482, Val ACC: 0.6607
+subject_19, Fold 1, Epoch 27, Train ACC: 0.8348, Val ACC: 0.6607
+subject_19, Fold 1, Best Epoch: 17, Final Val ACC: 0.6786, Final Val F1: 0.6538
+
+subject_19, Fold 1, Epoch 1, Train ACC: 0.7188, Val ACC: 0.6250
+subject_19, Fold 1, Epoch 2, Train ACC: 0.8929, Val ACC: 0.6429
+subject_19, Fold 1, Epoch 3, Train ACC: 0.9643, Val ACC: 0.6786
+subject_19, Fold 1, Epoch 4, Train ACC: 0.9821, Val ACC: 0.7500
+subject_19, Fold 1, Epoch 5, Train ACC: 0.9955, Val ACC: 0.7500
+subject_19, Fold 1, Epoch 6, Train ACC: 1.0000, Val ACC: 0.8036
+subject_19, Fold 1, Epoch 7, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 8, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 9, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 10, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 11, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 12, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 13, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 14, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 15, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Epoch 16, Train ACC: 1.0000, Val ACC: 0.7857
+subject_19, Fold 1, Best Epoch: 6, Final Val ACC: 0.8036, Final Val F1: 0.8031
+
+subject_19, Fold 2, Epoch 1, Train ACC: 0.2545, Val ACC: 0.3214
+subject_19, Fold 2, Epoch 2, Train ACC: 0.3438, Val ACC: 0.4821
+subject_19, Fold 2, Epoch 3, Train ACC: 0.5179, Val ACC: 0.4821
+subject_19, Fold 2, Epoch 4, Train ACC: 0.6339, Val ACC: 0.5179
+subject_19, Fold 2, Epoch 5, Train ACC: 0.6295, Val ACC: 0.4464
+subject_19, Fold 2, Epoch 6, Train ACC: 0.6920, Val ACC: 0.5536
+subject_19, Fold 2, Epoch 7, Train ACC: 0.7188, Val ACC: 0.5536
+subject_19, Fold 2, Epoch 8, Train ACC: 0.7054, Val ACC: 0.5536
+subject_19, Fold 2, Epoch 9, Train ACC: 0.7188, Val ACC: 0.5893
+subject_19, Fold 2, Epoch 10, Train ACC: 0.7366, Val ACC: 0.5893
+subject_19, Fold 2, Epoch 11, Train ACC: 0.7277, Val ACC: 0.6250
+subject_19, Fold 2, Epoch 12, Train ACC: 0.7321, Val ACC: 0.5893
+subject_19, Fold 2, Epoch 13, Train ACC: 0.7366, Val ACC: 0.6071
+subject_19, Fold 2, Epoch 14, Train ACC: 0.7277, Val ACC: 0.6071
+subject_19, Fold 2, Epoch 15, Train ACC: 0.7723, Val ACC: 0.5714
+subject_19, Fold 2, Epoch 16, Train ACC: 0.7812, Val ACC: 0.6071
+subject_19, Fold 2, Epoch 17, Train ACC: 0.7857, Val ACC: 0.6071
+subject_19, Fold 2, Epoch 18, Train ACC: 0.7902, Val ACC: 0.5714
+subject_19, Fold 2, Epoch 19, Train ACC: 0.8259, Val ACC: 0.5536
+subject_19, Fold 2, Epoch 20, Train ACC: 0.8170, Val ACC: 0.6429
+subject_19, Fold 2, Epoch 21, Train ACC: 0.8259, Val ACC: 0.5536
+subject_19, Fold 2, Epoch 22, Train ACC: 0.8304, Val ACC: 0.6071
+subject_19, Fold 2, Epoch 23, Train ACC: 0.7946, Val ACC: 0.6429
+subject_19, Fold 2, Epoch 24, Train ACC: 0.8393, Val ACC: 0.5536
+subject_19, Fold 2, Epoch 25, Train ACC: 0.8170, Val ACC: 0.5536
+subject_19, Fold 2, Epoch 26, Train ACC: 0.8125, Val ACC: 0.6786
+subject_19, Fold 2, Epoch 27, Train ACC: 0.8348, Val ACC: 0.6250
+subject_19, Fold 2, Epoch 28, Train ACC: 0.8750, Val ACC: 0.5893
+subject_19, Fold 2, Epoch 29, Train ACC: 0.8616, Val ACC: 0.5714
+subject_19, Fold 2, Epoch 30, Train ACC: 0.8571, Val ACC: 0.6250
+subject_19, Fold 2, Epoch 31, Train ACC: 0.8616, Val ACC: 0.6250
+subject_19, Fold 2, Epoch 32, Train ACC: 0.8661, Val ACC: 0.5714
+subject_19, Fold 2, Epoch 33, Train ACC: 0.8571, Val ACC: 0.6607
+subject_19, Fold 2, Epoch 34, Train ACC: 0.8795, Val ACC: 0.5893
+subject_19, Fold 2, Epoch 35, Train ACC: 0.8795, Val ACC: 0.6429
+subject_19, Fold 2, Epoch 36, Train ACC: 0.8705, Val ACC: 0.6607
+subject_19, Fold 2, Best Epoch: 26, Final Val ACC: 0.6786, Final Val F1: 0.6760
+
+subject_19, Fold 2, Epoch 1, Train ACC: 0.7634, Val ACC: 0.6786
+subject_19, Fold 2, Epoch 2, Train ACC: 0.9286, Val ACC: 0.6607
+subject_19, Fold 2, Epoch 3, Train ACC: 0.9911, Val ACC: 0.7321
+subject_19, Fold 2, Epoch 4, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 2, Epoch 5, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 2, Epoch 6, Train ACC: 1.0000, Val ACC: 0.6964
+subject_19, Fold 2, Epoch 7, Train ACC: 1.0000, Val ACC: 0.6786
+subject_19, Fold 2, Epoch 8, Train ACC: 1.0000, Val ACC: 0.6964
+subject_19, Fold 2, Epoch 9, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 2, Epoch 10, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 2, Epoch 11, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 2, Epoch 12, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 2, Epoch 13, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 2, Best Epoch: 3, Final Val ACC: 0.7321, Final Val F1: 0.7168
+
+subject_19, Fold 3, Epoch 1, Train ACC: 0.2545, Val ACC: 0.2857
+subject_19, Fold 3, Epoch 2, Train ACC: 0.4107, Val ACC: 0.4286
+subject_19, Fold 3, Epoch 3, Train ACC: 0.5312, Val ACC: 0.4464
+subject_19, Fold 3, Epoch 4, Train ACC: 0.5536, Val ACC: 0.5000
+subject_19, Fold 3, Epoch 5, Train ACC: 0.6027, Val ACC: 0.5893
+subject_19, Fold 3, Epoch 6, Train ACC: 0.6205, Val ACC: 0.5179
+subject_19, Fold 3, Epoch 7, Train ACC: 0.6161, Val ACC: 0.5357
+subject_19, Fold 3, Epoch 8, Train ACC: 0.6652, Val ACC: 0.6607
+subject_19, Fold 3, Epoch 9, Train ACC: 0.7054, Val ACC: 0.6071
+subject_19, Fold 3, Epoch 10, Train ACC: 0.7009, Val ACC: 0.5714
+subject_19, Fold 3, Epoch 11, Train ACC: 0.7232, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 12, Train ACC: 0.7054, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 13, Train ACC: 0.7411, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 14, Train ACC: 0.7500, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 15, Train ACC: 0.8036, Val ACC: 0.6786
+subject_19, Fold 3, Epoch 16, Train ACC: 0.7679, Val ACC: 0.6607
+subject_19, Fold 3, Epoch 17, Train ACC: 0.7679, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 18, Train ACC: 0.8036, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 19, Train ACC: 0.8036, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 20, Train ACC: 0.8214, Val ACC: 0.5893
+subject_19, Fold 3, Epoch 21, Train ACC: 0.8125, Val ACC: 0.6071
+subject_19, Fold 3, Epoch 22, Train ACC: 0.8125, Val ACC: 0.6607
+subject_19, Fold 3, Epoch 23, Train ACC: 0.8259, Val ACC: 0.6786
+subject_19, Fold 3, Epoch 24, Train ACC: 0.8170, Val ACC: 0.6607
+subject_19, Fold 3, Epoch 25, Train ACC: 0.8438, Val ACC: 0.6429
+subject_19, Fold 3, Best Epoch: 15, Final Val ACC: 0.6786, Final Val F1: 0.6799
+
+subject_19, Fold 3, Epoch 1, Train ACC: 0.7098, Val ACC: 0.6607
+subject_19, Fold 3, Epoch 2, Train ACC: 0.8750, Val ACC: 0.6250
+subject_19, Fold 3, Epoch 3, Train ACC: 0.9286, Val ACC: 0.6786
+subject_19, Fold 3, Epoch 4, Train ACC: 0.9911, Val ACC: 0.6429
+subject_19, Fold 3, Epoch 5, Train ACC: 1.0000, Val ACC: 0.7679
+subject_19, Fold 3, Epoch 6, Train ACC: 1.0000, Val ACC: 0.7500
+subject_19, Fold 3, Epoch 7, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 3, Epoch 8, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 3, Epoch 9, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 3, Epoch 10, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 3, Epoch 11, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 3, Epoch 12, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 3, Epoch 13, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 3, Epoch 14, Train ACC: 1.0000, Val ACC: 0.7321
+subject_19, Fold 3, Epoch 15, Train ACC: 1.0000, Val ACC: 0.7143
+subject_19, Fold 3, Best Epoch: 5, Final Val ACC: 0.7679, Final Val F1: 0.7699
+
+subject_19, Fold 4, Epoch 1, Train ACC: 0.1696, Val ACC: 0.3036
+subject_19, Fold 4, Epoch 2, Train ACC: 0.3259, Val ACC: 0.4464
+subject_19, Fold 4, Epoch 3, Train ACC: 0.4598, Val ACC: 0.4464
+subject_19, Fold 4, Epoch 4, Train ACC: 0.5893, Val ACC: 0.5179
+subject_19, Fold 4, Epoch 5, Train ACC: 0.6429, Val ACC: 0.4464
+subject_19, Fold 4, Epoch 6, Train ACC: 0.5982, Val ACC: 0.5000
+subject_19, Fold 4, Epoch 7, Train ACC: 0.6741, Val ACC: 0.5714
+subject_19, Fold 4, Epoch 8, Train ACC: 0.7054, Val ACC: 0.5000
+subject_19, Fold 4, Epoch 9, Train ACC: 0.6920, Val ACC: 0.5536
+subject_19, Fold 4, Epoch 10, Train ACC: 0.7455, Val ACC: 0.5357
+subject_19, Fold 4, Epoch 11, Train ACC: 0.7946, Val ACC: 0.5357
+subject_19, Fold 4, Epoch 12, Train ACC: 0.7500, Val ACC: 0.5714
+subject_19, Fold 4, Epoch 13, Train ACC: 0.7321, Val ACC: 0.5179
+subject_19, Fold 4, Epoch 14, Train ACC: 0.7857, Val ACC: 0.5536
+subject_19, Fold 4, Epoch 15, Train ACC: 0.7679, Val ACC: 0.5893
+subject_19, Fold 4, Epoch 16, Train ACC: 0.7634, Val ACC: 0.6071
+subject_19, Fold 4, Epoch 17, Train ACC: 0.8080, Val ACC: 0.6071
+subject_19, Fold 4, Epoch 18, Train ACC: 0.8125, Val ACC: 0.6071
+subject_19, Fold 4, Epoch 19, Train ACC: 0.8214, Val ACC: 0.5714
+subject_19, Fold 4, Epoch 20, Train ACC: 0.8571, Val ACC: 0.5714
+subject_19, Fold 4, Epoch 21, Train ACC: 0.8304, Val ACC: 0.5714
+subject_19, Fold 4, Epoch 22, Train ACC: 0.8482, Val ACC: 0.6250
+subject_19, Fold 4, Epoch 23, Train ACC: 0.8616, Val ACC: 0.5893
+subject_19, Fold 4, Epoch 24, Train ACC: 0.8616, Val ACC: 0.6250
+subject_19, Fold 4, Epoch 25, Train ACC: 0.8616, Val ACC: 0.6071
+subject_19, Fold 4, Epoch 26, Train ACC: 0.8527, Val ACC: 0.6607
+subject_19, Fold 4, Epoch 27, Train ACC: 0.8705, Val ACC: 0.5893
+subject_19, Fold 4, Epoch 28, Train ACC: 0.8705, Val ACC: 0.6250
+subject_19, Fold 4, Epoch 29, Train ACC: 0.9062, Val ACC: 0.5893
+subject_19, Fold 4, Epoch 30, Train ACC: 0.8795, Val ACC: 0.6071
+subject_19, Fold 4, Epoch 31, Train ACC: 0.8705, Val ACC: 0.6429
+subject_19, Fold 4, Epoch 32, Train ACC: 0.8973, Val ACC: 0.5357
+subject_19, Fold 4, Epoch 33, Train ACC: 0.8973, Val ACC: 0.6071
+subject_19, Fold 4, Epoch 34, Train ACC: 0.9152, Val ACC: 0.6607
+subject_19, Fold 4, Epoch 35, Train ACC: 0.8839, Val ACC: 0.6250
+subject_19, Fold 4, Epoch 36, Train ACC: 0.9152, Val ACC: 0.5536
+subject_19, Fold 4, Best Epoch: 26, Final Val ACC: 0.6607, Final Val F1: 0.6535
+
+subject_19, Fold 4, Epoch 1, Train ACC: 0.7812, Val ACC: 0.6250
+subject_19, Fold 4, Epoch 2, Train ACC: 0.8795, Val ACC: 0.6071
+subject_19, Fold 4, Epoch 3, Train ACC: 0.9821, Val ACC: 0.6250
+subject_19, Fold 4, Epoch 4, Train ACC: 1.0000, Val ACC: 0.6786
+subject_19, Fold 4, Epoch 5, Train ACC: 1.0000, Val ACC: 0.6607
+subject_19, Fold 4, Epoch 6, Train ACC: 1.0000, Val ACC: 0.6429
+subject_19, Fold 4, Epoch 7, Train ACC: 1.0000, Val ACC: 0.6607
+subject_19, Fold 4, Epoch 8, Train ACC: 1.0000, Val ACC: 0.6607
+subject_19, Fold 4, Epoch 9, Train ACC: 1.0000, Val ACC: 0.6250
+subject_19, Fold 4, Epoch 10, Train ACC: 1.0000, Val ACC: 0.6429
+subject_19, Fold 4, Epoch 11, Train ACC: 1.0000, Val ACC: 0.6429
+subject_19, Fold 4, Epoch 12, Train ACC: 1.0000, Val ACC: 0.6429
+subject_19, Fold 4, Epoch 13, Train ACC: 1.0000, Val ACC: 0.6607
+subject_19, Fold 4, Epoch 14, Train ACC: 1.0000, Val ACC: 0.6607
+subject_19, Fold 4, Best Epoch: 4, Final Val ACC: 0.6786, Final Val F1: 0.6780
+
+====================
+Subject 19 CV Results:
+Median Epochs 1: 17.00
+Median Epochs 2: 5.00
+Mean ACC: 0.7464, Mean F1: 0.7435
+====================
+

@@ -1,0 +1,3 @@
+Average Cross-Validation Results Across All Subjects:
+Average CV Accuracy: 0.6781
+Average CV F1 Score: 0.6728

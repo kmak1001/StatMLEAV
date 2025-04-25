@@ -1,0 +1,368 @@
+Train shape: (11760, 80000)
+Test shape: (5040, 80000)
+================================================================================
+Cross-Validation Accuracy: 0.7191
+Cross-Validation F1 Score: 0.7187
+Median n_epochs_1: 36
+Median n_epochs_2: 33
+================================================================================
+Training model for 36 epochs...
+Freeze model parameters: True
+Using 1 GPUs for training.
+Model training started...
+Epoch 1/36
+Training Accuracy: 43.30%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 1, Test Accuracy: 46.45%
+Epoch 2/36
+Training Accuracy: 50.12%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 2, Test Accuracy: 48.89%
+Epoch 3/36
+Training Accuracy: 53.30%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 3, Test Accuracy: 48.65%
+Epoch 4/36
+Training Accuracy: 54.13%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 4, Test Accuracy: 50.10%
+Epoch 5/36
+Training Accuracy: 55.56%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 5, Test Accuracy: 51.27%
+Epoch 6/36
+Training Accuracy: 55.82%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 6, Test Accuracy: 51.73%
+Epoch 7/36
+Training Accuracy: 56.46%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 7, Test Accuracy: 50.04%
+Epoch 8/36
+Training Accuracy: 56.82%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 8, Test Accuracy: 44.74%
+Epoch 9/36
+Training Accuracy: 57.91%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 9, Test Accuracy: 51.87%
+Epoch 10/36
+Training Accuracy: 58.21%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 10, Test Accuracy: 52.58%
+Epoch 11/36
+Training Accuracy: 58.39%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 11, Test Accuracy: 50.58%
+Epoch 12/36
+Training Accuracy: 58.85%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 12, Test Accuracy: 52.10%
+Epoch 13/36
+Training Accuracy: 59.03%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 13, Test Accuracy: 52.44%
+Epoch 14/36
+Training Accuracy: 59.45%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 14, Test Accuracy: 51.65%
+Epoch 15/36
+Training Accuracy: 60.03%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 15, Test Accuracy: 52.62%
+Epoch 16/36
+Training Accuracy: 60.24%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 16, Test Accuracy: 51.69%
+Epoch 17/36
+Training Accuracy: 60.31%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 17, Test Accuracy: 51.19%
+Epoch 18/36
+Training Accuracy: 60.45%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 18, Test Accuracy: 52.88%
+Epoch 19/36
+Training Accuracy: 60.79%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 19, Test Accuracy: 51.21%
+Epoch 20/36
+Training Accuracy: 60.69%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 20, Test Accuracy: 50.91%
+Epoch 21/36
+Training Accuracy: 61.16%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 21, Test Accuracy: 49.88%
+Epoch 22/36
+Training Accuracy: 61.16%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 22, Test Accuracy: 52.56%
+Epoch 23/36
+Training Accuracy: 61.59%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 23, Test Accuracy: 52.54%
+Epoch 24/36
+Training Accuracy: 62.10%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 24, Test Accuracy: 53.25%
+Epoch 25/36
+Training Accuracy: 61.94%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 25, Test Accuracy: 51.37%
+Epoch 26/36
+Training Accuracy: 61.69%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 26, Test Accuracy: 49.44%
+Epoch 27/36
+Training Accuracy: 62.11%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 27, Test Accuracy: 50.93%
+Epoch 28/36
+Training Accuracy: 61.70%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 28, Test Accuracy: 53.21%
+Epoch 29/36
+Training Accuracy: 61.85%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 29, Test Accuracy: 52.68%
+Epoch 30/36
+Training Accuracy: 62.24%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 30, Test Accuracy: 52.52%
+Epoch 31/36
+Training Accuracy: 62.14%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 31, Test Accuracy: 52.98%
+Epoch 32/36
+Training Accuracy: 62.36%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 32, Test Accuracy: 52.04%
+Epoch 33/36
+Training Accuracy: 62.99%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 33, Test Accuracy: 52.36%
+Epoch 34/36
+Training Accuracy: 62.58%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 34, Test Accuracy: 52.00%
+Epoch 35/36
+Training Accuracy: 62.30%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 35, Test Accuracy: 51.94%
+Epoch 36/36
+Training Accuracy: 62.64%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 36, Test Accuracy: 51.96%
+Final model training phase 1 complete
+Training model for 33 epochs...
+Freeze model parameters: False
+Using 1 GPUs for training.
+Model training started...
+Epoch 1/33
+Training Accuracy: 59.61%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 1, Test Accuracy: 56.96%
+Epoch 2/33
+Training Accuracy: 71.95%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 2, Test Accuracy: 60.56%
+Epoch 3/33
+Training Accuracy: 81.36%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 3, Test Accuracy: 54.54%
+Epoch 4/33
+Training Accuracy: 90.06%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 4, Test Accuracy: 61.33%
+Epoch 5/33
+Training Accuracy: 95.39%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 5, Test Accuracy: 59.48%
+Epoch 6/33
+Training Accuracy: 96.63%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 6, Test Accuracy: 61.21%
+Epoch 7/33
+Training Accuracy: 97.70%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 7, Test Accuracy: 60.08%
+Epoch 8/33
+Training Accuracy: 97.63%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 8, Test Accuracy: 60.95%
+Epoch 9/33
+Training Accuracy: 98.30%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 9, Test Accuracy: 62.24%
+Epoch 10/33
+Training Accuracy: 98.34%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 10, Test Accuracy: 60.65%
+Epoch 11/33
+Training Accuracy: 97.79%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 11, Test Accuracy: 61.47%
+Epoch 12/33
+Training Accuracy: 98.58%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 12, Test Accuracy: 61.13%
+Epoch 13/33
+Training Accuracy: 98.54%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 13, Test Accuracy: 59.74%
+Epoch 14/33
+Training Accuracy: 99.16%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 14, Test Accuracy: 60.34%
+Epoch 15/33
+Training Accuracy: 98.83%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 15, Test Accuracy: 60.54%
+Epoch 16/33
+Training Accuracy: 98.32%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 16, Test Accuracy: 62.02%
+Epoch 17/33
+Training Accuracy: 98.81%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 17, Test Accuracy: 63.17%
+Epoch 18/33
+Training Accuracy: 98.92%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 18, Test Accuracy: 62.62%
+Epoch 19/33
+Training Accuracy: 99.29%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 19, Test Accuracy: 60.99%
+Epoch 20/33
+Training Accuracy: 98.85%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 20, Test Accuracy: 62.18%
+Epoch 21/33
+Training Accuracy: 99.01%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 21, Test Accuracy: 63.19%
+Epoch 22/33
+Training Accuracy: 99.19%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 22, Test Accuracy: 62.24%
+Epoch 23/33
+Training Accuracy: 99.16%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 23, Test Accuracy: 60.30%
+Epoch 24/33
+Training Accuracy: 99.23%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 24, Test Accuracy: 62.66%
+Epoch 25/33
+Training Accuracy: 99.07%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 25, Test Accuracy: 63.77%
+Epoch 26/33
+Training Accuracy: 99.06%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 26, Test Accuracy: 63.61%
+Epoch 27/33
+Training Accuracy: 99.36%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 27, Test Accuracy: 63.31%
+Epoch 28/33
+Training Accuracy: 99.39%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 28, Test Accuracy: 62.56%
+Epoch 29/33
+Training Accuracy: 99.02%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 29, Test Accuracy: 61.73%
+Epoch 30/33
+Training Accuracy: 99.52%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 30, Test Accuracy: 62.58%
+Epoch 31/33
+Training Accuracy: 99.11%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 31, Test Accuracy: 62.80%
+Epoch 32/33
+Training Accuracy: 99.35%
+Testing model...
+Evaluation complete
+AllSubjectsFinal, Epoch 32, Test Accuracy: 56.67%
+Epoch 33/33
+Training Accuracy: 99.44%
+Testing model...
+Test predictions shape: (5040, 5)
+Evaluation complete
+AllSubjectsFinal, Epoch 33, Test Accuracy: 60.08%
+Final model training phase 2 complete
+Final model testing phase
+================================================================================
+Test Accuracy: 0.6008
+Test F1 Score: 0.6028

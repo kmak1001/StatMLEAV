@@ -1,0 +1,341 @@
+Per-subject results:
+Subject 1: F1-score=0.5755, Accuracy=0.5833
+Confusion Matrix for Subject 1:
+[[19  2  1  0  2]
+ [ 2  8  4  6  4]
+ [ 1  1 16  6  0]
+ [ 1  1  8 12  2]
+ [ 4  3  0  2 15]]
+
+Subject 2: F1-score=0.7533, Accuracy=0.7500
+Confusion Matrix for Subject 2:
+[[18  0  0  0  6]
+ [ 1 14  2  0  7]
+ [ 0  5 18  1  0]
+ [ 0  2  3 18  1]
+ [ 0  1  1  0 22]]
+
+Subject 3: F1-score=0.5781, Accuracy=0.5750
+Confusion Matrix for Subject 3:
+[[10  1  0  4  9]
+ [ 4 12  0  1  7]
+ [ 0  1 19  4  0]
+ [ 2  0  4 14  4]
+ [ 5  2  1  2 14]]
+
+Subject 4: F1-score=0.6251, Accuracy=0.6333
+Confusion Matrix for Subject 4:
+[[ 9  3  2  2  8]
+ [ 2 14  2  3  3]
+ [ 1  0 15  8  0]
+ [ 3  0  2 18  1]
+ [ 2  2  0  0 20]]
+
+Subject 5: F1-score=0.5150, Accuracy=0.5167
+Confusion Matrix for Subject 5:
+[[15  4  0  1  4]
+ [ 8 13  0  1  2]
+ [ 2  6 11  4  1]
+ [ 2  3  2 16  1]
+ [ 9  4  0  4  7]]
+
+Subject 6: F1-score=0.8165, Accuracy=0.8167
+Confusion Matrix for Subject 6:
+[[17  0  0  0  7]
+ [ 1 22  0  1  0]
+ [ 0  0 18  6  0]
+ [ 0  0  0 24  0]
+ [ 6  1  0  0 17]]
+
+Subject 7: F1-score=0.5522, Accuracy=0.5583
+Confusion Matrix for Subject 7:
+[[13  3  0  6  2]
+ [ 0 11  8  3  2]
+ [ 0  0 21  3  0]
+ [ 2  6  4 12  0]
+ [ 6  6  0  2 10]]
+
+Subject 8: F1-score=0.4332, Accuracy=0.4417
+Confusion Matrix for Subject 8:
+[[10  3  1  2  8]
+ [ 1  8  1  5  9]
+ [ 0  2 21  1  0]
+ [ 5  2  7  7  3]
+ [15  1  0  1  7]]
+
+Subject 9: F1-score=0.6323, Accuracy=0.6417
+Confusion Matrix for Subject 9:
+[[14  2  0  3  5]
+ [ 0  9  1  0 14]
+ [ 0  0 24  0  0]
+ [ 1  0  9 14  0]
+ [ 7  1  0  0 16]]
+
+Subject 10: F1-score=0.5292, Accuracy=0.5250
+Confusion Matrix for Subject 10:
+[[14  0  0  1  9]
+ [ 2  9  2  5  6]
+ [ 0  1 18  4  1]
+ [ 2  8  0 14  0]
+ [16  0  0  0  8]]
+
+Subject 11: F1-score=0.4651, Accuracy=0.4667
+Confusion Matrix for Subject 11:
+[[ 7  4  1  2 10]
+ [ 5 10  0  1  8]
+ [ 0  2 16  6  0]
+ [ 4  2  5  9  4]
+ [ 4  6  0  0 14]]
+
+Subject 12: F1-score=0.4725, Accuracy=0.4833
+Confusion Matrix for Subject 12:
+[[ 7  6  0  3  8]
+ [ 6 14  0  2  2]
+ [ 0  0 14 10  0]
+ [ 2  0  3 18  1]
+ [ 6 10  0  3  5]]
+
+Subject 13: F1-score=0.7026, Accuracy=0.7000
+Confusion Matrix for Subject 13:
+[[18  0  1  3  2]
+ [ 4 18  2  0  0]
+ [ 1  4 16  3  0]
+ [ 4  1  4 15  0]
+ [ 4  3  0  0 17]]
+
+Subject 14: F1-score=0.5173, Accuracy=0.5333
+Confusion Matrix for Subject 14:
+[[20  0  1  3  0]
+ [ 5 14  0  0  5]
+ [ 0  2 14  8  0]
+ [ 3  0  7 12  2]
+ [11  1  1  7  4]]
+
+Subject 15: F1-score=0.6701, Accuracy=0.6750
+Confusion Matrix for Subject 15:
+[[16  1  0  1  6]
+ [ 2 17  0  1  4]
+ [ 0  0 22  2  0]
+ [ 1  0  4 18  1]
+ [11  5  0  0  8]]
+
+Subject 16: F1-score=0.5484, Accuracy=0.5750
+Confusion Matrix for Subject 16:
+[[16  3  0  2  3]
+ [ 1 21  1  0  1]
+ [ 0  4 19  0  1]
+ [ 3  6  7  6  2]
+ [ 6  3  0  8  7]]
+
+Subject 17: F1-score=0.8215, Accuracy=0.8250
+Confusion Matrix for Subject 17:
+[[19  2  0  2  1]
+ [ 0 22  0  2  0]
+ [ 0  0 24  0  0]
+ [ 0  0  6 18  0]
+ [ 6  2  0  0 16]]
+
+Subject 18: F1-score=0.5403, Accuracy=0.5500
+Confusion Matrix for Subject 18:
+[[21  1  0  0  2]
+ [ 5  9  0  3  7]
+ [ 0  1 14  8  1]
+ [ 1  0  9 12  2]
+ [12  0  0  2 10]]
+
+Subject 19: F1-score=0.6492, Accuracy=0.6500
+Confusion Matrix for Subject 19:
+[[12  1  0  2  9]
+ [ 4 14  0  2  4]
+ [ 0  2 22  0  0]
+ [ 2  2  4 15  1]
+ [ 5  0  0  4 15]]
+
+Subject 20: F1-score=0.6758, Accuracy=0.6750
+Confusion Matrix for Subject 20:
+[[16  2  1  1  4]
+ [ 5 16  0  2  1]
+ [ 0  0 20  4  0]
+ [ 4  1  3 14  2]
+ [ 5  3  1  0 15]]
+
+Subject 21: F1-score=0.5480, Accuracy=0.5667
+Confusion Matrix for Subject 21:
+[[ 7  4  1  4  8]
+ [ 2 19  0  1  2]
+ [ 0  1 18  5  0]
+ [ 0  0  6 17  1]
+ [ 7  6  0  4  7]]
+
+Subject 22: F1-score=0.7011, Accuracy=0.7083
+Confusion Matrix for Subject 22:
+[[12  2  0  2  8]
+ [ 2 19  0  1  2]
+ [ 0  0 22  2  0]
+ [ 0  0  2 21  1]
+ [ 4  4  0  5 11]]
+
+Subject 23: F1-score=0.6613, Accuracy=0.6583
+Confusion Matrix for Subject 23:
+[[11  1  0  3  9]
+ [ 2 16  1  1  4]
+ [ 0  1 18  5  0]
+ [ 2  1  1 18  2]
+ [ 2  1  0  5 16]]
+
+Subject 24: F1-score=0.6365, Accuracy=0.6333
+Confusion Matrix for Subject 24:
+[[18  1  0  2  3]
+ [ 3 16  0  5  0]
+ [ 0  1 17  6  0]
+ [ 3  4  3 13  1]
+ [ 3  7  0  2 12]]
+
+Subject 25: F1-score=0.4389, Accuracy=0.4417
+Confusion Matrix for Subject 25:
+[[ 9  7  0  3  5]
+ [ 2 15  1  5  1]
+ [ 0  0 15  9  0]
+ [ 2 10  7  3  2]
+ [ 1 11  1  0 11]]
+
+Subject 26: F1-score=0.5806, Accuracy=0.5750
+Confusion Matrix for Subject 26:
+[[15  3  0  1  5]
+ [ 1 16  0  5  2]
+ [ 0  3 15  6  0]
+ [ 0  3  7 13  1]
+ [ 1 11  0  2 10]]
+
+Subject 27: F1-score=0.4946, Accuracy=0.5083
+Confusion Matrix for Subject 27:
+[[10  0  3  8  3]
+ [ 1  9  1  3 10]
+ [ 0  0 19  5  0]
+ [ 0  2  4 17  1]
+ [10  6  1  1  6]]
+
+Subject 28: F1-score=0.5828, Accuracy=0.5833
+Confusion Matrix for Subject 28:
+[[16  2  1  0  5]
+ [ 2 15  2  0  5]
+ [ 1  1 14  7  1]
+ [ 9  1  3 11  0]
+ [ 4  5  1  0 14]]
+
+Subject 29: F1-score=0.4293, Accuracy=0.4417
+Confusion Matrix for Subject 29:
+[[16  2  1  3  2]
+ [ 1  6  0  4 13]
+ [ 0  0 14 10  0]
+ [ 0  1 10 12  1]
+ [12  6  1  0  5]]
+
+Subject 30: F1-score=0.5646, Accuracy=0.5667
+Confusion Matrix for Subject 30:
+[[12  4  0  2  6]
+ [ 0 17  0  0  7]
+ [ 0  1 21  1  1]
+ [12  3  0  7  2]
+ [ 2 11  0  0 11]]
+
+Subject 31: F1-score=0.6747, Accuracy=0.6833
+Confusion Matrix for Subject 31:
+[[18  0  0  0  6]
+ [ 0 16  2  1  5]
+ [ 0  0 23  0  1]
+ [ 0  0 15  9  0]
+ [ 5  3  0  0 16]]
+
+Subject 32: F1-score=0.5013, Accuracy=0.5000
+Confusion Matrix for Subject 32:
+[[12  1  0  3  8]
+ [ 0 12  4  7  1]
+ [ 0  1  9 14  0]
+ [ 4  1  4 15  0]
+ [ 8  4  0  0 12]]
+
+Subject 33: F1-score=0.8057, Accuracy=0.8083
+Confusion Matrix for Subject 33:
+[[23  0  0  0  1]
+ [ 0 19  0  4  1]
+ [ 0  0 20  3  1]
+ [ 0  0  3 20  1]
+ [ 4  4  0  1 15]]
+
+Subject 34: F1-score=0.4109, Accuracy=0.4417
+Confusion Matrix for Subject 34:
+[[13  1  4  5  1]
+ [ 3  2  4  5 10]
+ [ 3  0 17  2  2]
+ [ 1  0  7 12  4]
+ [ 8  2  2  3  9]]
+
+Subject 35: F1-score=0.4750, Accuracy=0.4750
+Confusion Matrix for Subject 35:
+[[ 7  4  0  5  8]
+ [ 2 19  0  1  2]
+ [ 0  1 13  9  1]
+ [ 4  5  2 11  2]
+ [11  2  0  4  7]]
+
+Subject 36: F1-score=0.5745, Accuracy=0.5833
+Confusion Matrix for Subject 36:
+[[19  0  0  2  3]
+ [ 5 10  2  4  3]
+ [ 0  0 18  4  2]
+ [ 3  3  3 15  0]
+ [12  1  0  3  8]]
+
+Subject 37: F1-score=0.4015, Accuracy=0.3917
+Confusion Matrix for Subject 37:
+[[12  4  0  3  5]
+ [ 2  7  0  0 15]
+ [ 3  3 12  6  0]
+ [ 5  0  6 12  1]
+ [ 4 16  0  0  4]]
+
+Subject 38: F1-score=0.3856, Accuracy=0.4083
+Confusion Matrix for Subject 38:
+[[ 5  9  0  1  9]
+ [ 6 15  0  2  1]
+ [ 0  0  3 20  1]
+ [ 0  3  7 14  0]
+ [ 6  2  0  4 12]]
+
+Subject 39: F1-score=0.6486, Accuracy=0.6667
+Confusion Matrix for Subject 39:
+[[14  3  0  5  2]
+ [ 5  6  0  6  7]
+ [ 0  0 19  5  0]
+ [ 2  2  1 18  1]
+ [ 1  0  0  0 23]]
+
+Subject 40: F1-score=0.5526, Accuracy=0.5583
+Confusion Matrix for Subject 40:
+[[13  5  0  1  5]
+ [ 6  9  0  2  7]
+ [ 0  0 20  4  0]
+ [ 1  1  9 13  0]
+ [ 5  6  0  1 12]]
+
+Subject 41: F1-score=0.4745, Accuracy=0.4917
+Confusion Matrix for Subject 41:
+[[12  7  0  2  3]
+ [ 2 19  0  2  1]
+ [ 1  0 12 11  0]
+ [ 5  2  1 13  3]
+ [10 11  0  0  3]]
+
+Subject 42: F1-score=0.5512, Accuracy=0.5417
+Confusion Matrix for Subject 42:
+[[13  1  0  4  6]
+ [ 4  8  0  2 10]
+ [ 0  0 17  7  0]
+ [ 4  2  0 15  3]
+ [12  0  0  0 12]]
+
+
+Final Results:
+Average F1-score across subjects: 0.5754
+Average Accuracy across subjects: 0.5812
